@@ -15,7 +15,7 @@
 
 ### 💼 Day job
 
-10+ years across developer experience, multi-cloud, FinOps, and cloud security. Today I'm a **Group Product Manager at First American Financial**, owning product strategy for an internal developer platform serving **1,000+ engineers** and a **$150M+ multi-cloud footprint**. Before that: cut cloud spend **$800K/year** with a FinOps tool I designed and built at **Wabtec**, stood up the cloud security engineering function at **Paylocity**, and led IT/cyber advisory on 20+ M&A deals at **RSM**.
+10+ years across developer experience, multi-cloud, FinOps, and cloud security. Today I'm a **Group Product Manager**, owning product strategy for an internal developer platform serving **1,000+ engineers** and a **$150M+ multi-cloud footprint**. Along the way I've cut cloud spend **$800K/year** with a FinOps tool I designed and built, stood up a cloud security engineering function from scratch, and led IT/cyber advisory on **20+ M&A deals**.
 
 ---
 
