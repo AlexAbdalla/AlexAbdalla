@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Group+Product+Manager+%C2%B7+Developer+Platforms;Multi-Cloud+%C2%B7+FinOps+%C2%B7+Cloud+Security;Golfer+%C2%B7+NFL+Fan+%C2%B7+Dad+of+Two+(%2B+Two+Frenchies)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Group+Product+Manager+%C2%B7+Developer+Platforms;Multi-Cloud+%C2%B7+FinOps+%C2%B7+Cloud+Security;Golfer+%C2%B7+NFL+Fan+%C2%B7+Dad+of+Two+(%2B+Two+Frenchies)" alt="Typing SVG" />
 
 ### Hi, I'm Alex 👋
 
